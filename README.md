@@ -11,9 +11,9 @@ This app is primarily intended for watch enthusiasts, people interested in augme
 ![Welcome page](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshot/Welcome%20Page.jpg?raw=true)
 
 
-![Watch 2](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshot/Picture3.jpg?raw=true)
+![Watch 2](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshot/Watch2.jpg?raw=true)
 
-![Watch 3](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshot/Picture1.jpg?raw=true)
+![Watch 3](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshot/Watch3(2).jpg?raw=true)
 
 ![Watch 5 Shopping](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshot/Apple%20Watch%20Shooping.jpg?raw=true)
 
@@ -75,7 +75,7 @@ Usage:
 
 6. You will now see five watches on your screen. Choose the watch that you want to see on your wrist.
 
-![Watch 3](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshot/Picture2.jpg?raw=true)
+![Watch 3](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshot/Watch3(1).jpg?raw=true)
 
 7. To purchase the watch, click on the "Shopping" feature on the dashboard.
 
