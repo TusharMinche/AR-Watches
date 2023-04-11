@@ -8,14 +8,14 @@ This app is primarily intended for watch enthusiasts, people interested in augme
 
 ## Screenshots
 
-![Welcome page](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshots/Welcome%20Page.jpg?raw=true)
+![Welcome page](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshot/Welcome%20Page.jpg?raw=true)
 
 
-![Watch 2](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshots/Picture3.jpg?raw=true)
+![Watch 2](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshot/Picture3.jpg?raw=true)
 
-![Watch 3](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshots/Picture1.jpg?raw=true)
+![Watch 3](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshot/Picture1.jpg?raw=true)
 
-![Watch 5 Shopping](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshots/Apple%20Watch%20Shooping.jpg?raw=true)
+![Watch 5 Shopping](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshot/Apple%20Watch%20Shooping.jpg?raw=true)
 
 ## Installation
 
@@ -63,11 +63,11 @@ Usage:
 
 2. On the welcome page, you will see two options: "Login" and "Sign Up". You can either create a new account by signing up or use the example ID with the username "user1005" and the password "12345678" to login.
 
-![Login page with id and password](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshots/userIdPassword.jpg?raw=true)
+![Login page with id and password](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshot/userIdPassword.jpg?raw=true)
 
 3. After logging in, you will be directed to the app's dashboard where you can access six different features.
 
-![Dashboard](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshots/DashBoard.jpg?raw=true)
+![Dashboard](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshot/DashBoard.jpg?raw=true)
 
 4. To use the "Try Watches" feature, click on it and allow camera permission when prompted.
 
@@ -75,11 +75,11 @@ Usage:
 
 6. You will now see five watches on your screen. Choose the watch that you want to see on your wrist.
 
-![Welcome Page](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshots/Picture2.jpg?raw=true)
+![Watch 3](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshot/Picture2.jpg?raw=true)
 
 7. To purchase the watch, click on the "Shopping" feature on the dashboard.
 
-![Welcome Page](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshots/Shopping.jpg?raw=true)
+![Shopping](https://github.com/TusharMinche/AR-Watches/blob/main/AR-Watche/Screenshot/Shopping.jpg?raw=true)
 
 8. You can also learn how to use the app by clicking on the "Tutorial" feature on the dashboard.
 
